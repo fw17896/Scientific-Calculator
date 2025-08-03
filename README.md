@@ -22,6 +22,3 @@ This is a fully functional and visually appealing **Scientific Calculator** deve
 ## How It Works
 
 The calculator listens for each button press and automatically evaluates the expression using JavaScript. It updates the result in real time while ensuring correct operator logic.
-
-   git clone https://github.com/yourusername/scientific-calculator.git
-
